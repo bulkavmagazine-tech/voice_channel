@@ -1,0 +1,6 @@
+pyaudio>=0.2.13
+numpy>=1.24.0
+python-socketio[client]>=5.10.0
+flask-socketio>=5.3.0
+python-engineio>=4.8.0
+keyboard>=0.13.5
